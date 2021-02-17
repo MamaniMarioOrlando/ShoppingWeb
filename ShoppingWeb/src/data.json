@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "_id":"dress1",
+            "title":"Midi sundress with shiring detail",
+            "image":"/images/dress1.jpg",
+            "description":"this is for all latest trends, no mastter",
+            "price":29.9,
+            "availablesSizes":["X","L","XL","XXL"]
+        },
+        {
+            "_id":"dress2",
+            "title":"Midi sundress with ruched front",
+            "image":"/images/dress2.jpg",
+            "description":"This is from all the latest trends, no mastter",
+            "price":18.9,
+            "availablesSizes":["X","M","L"]
+        },
+        {
+            "_id":"dress3",
+            "title":"Dress 3",
+            "image":"/images/dress3.jpg",
+            "description":"abbut dress 1",
+            "price":19,
+            "availablesSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress4",
+            "title":"Dress 4",
+            "image":"/images/dress4.jpg",
+            "description":"abbut dress 1",
+            "price":19,
+            "availablesSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress5",
+            "title":"Dress 5",
+            "image":"/images/dress5.jpg",
+            "description":"abbut dress 1",
+            "price":19,
+            "availablesSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress6",
+            "title":"Dress 6",
+            "image":"/images/dress6.jpg",
+            "description":"abbut dress 1",
+            "price":19,
+            "availablesSizes":["XL","XXL"]
+        }
+]
+}
