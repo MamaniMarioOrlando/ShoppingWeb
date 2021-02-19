@@ -21,7 +21,7 @@
             "title":"Dress 3",
             "image":"/images/dress3.jpg",
             "description":"abbut dress 1",
-            "price":19,
+            "price":14.9,
             "availablesSizes":["XL","XXL"]
         },
         {
@@ -29,7 +29,7 @@
             "title":"Dress 4",
             "image":"/images/dress4.jpg",
             "description":"abbut dress 1",
-            "price":19,
+            "price":49.9,
             "availablesSizes":["XL","XXL"]
         },
         {
@@ -37,7 +37,7 @@
             "title":"Dress 5",
             "image":"/images/dress5.jpg",
             "description":"abbut dress 1",
-            "price":19,
+            "price":10.9,
             "availablesSizes":["XL","XXL"]
         },
         {
@@ -45,7 +45,7 @@
             "title":"Dress 6",
             "image":"/images/dress6.jpg",
             "description":"abbut dress 1",
-            "price":19,
+            "price":25.9,
             "availablesSizes":["XL","XXL"]
         }
 ]
