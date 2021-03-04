@@ -18,7 +18,7 @@
         },
         {
             "_id":"dress3",
-            "title":"Dress 3",
+            "title":"Mide dress in pink ditsy floreal",
             "image":"/images/dress3.jpg",
             "description":"abbut dress 1",
             "price":14.9,
@@ -26,7 +26,7 @@
         },
         {
             "_id":"dress4",
-            "title":"Dress 4",
+            "title":"cami maxi dress in polka dot",
             "image":"/images/dress4.jpg",
             "description":"abbut dress 1",
             "price":49.9,
@@ -34,7 +34,7 @@
         },
         {
             "_id":"dress5",
-            "title":"Dress 5",
+            "title":"Frill mini dress in yellow polka dot",
             "image":"/images/dress5.jpg",
             "description":"abbut dress 1",
             "price":10.9,
@@ -42,7 +42,7 @@
         },
         {
             "_id":"dress6",
-            "title":"Dress 6",
+            "title":"Midi tea dress in blue and red spot",
             "image":"/images/dress6.jpg",
             "description":"abbut dress 1",
             "price":25.9,
